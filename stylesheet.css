@@ -1,0 +1,28 @@
+@import url(bootstrap.css);
+
+
+body {
+   background-image:url('background.jpg');
+    
+}
+
+h1 {
+   color:DarkMagenta;
+   text-align:Center;
+   font-family:"Courier New";
+   border-style:Outset;
+   border-width:5px;\
+   border-color:#FF1493;
+   background-color:Violet;
+   
+}
+
+h4 {
+    color:DarkMagenta;
+   text-align:Center;
+   font-family:"Courier New";
+   border-style:Outset;
+   border-width:5px;\
+   border-color:#FF1493;
+   background-color:Violet; 
+    
