@@ -26,3 +26,21 @@ h4 {
    border-color:#FF1493;
    background-color:Violet; 
     
+li {
+    color:Indigo;
+   text-align:Center;
+   font-family:"Courier New";
+   border-style:Outset;
+   border-width:5px;\
+   border-color:#FF1493;
+   background-color:Violet;
+}
+
+p {
+   color:Indigo;
+   text-align:Center;
+   font-family:"Courier New";
+   border-style:Outset;
+   border-width:5px;\
+   border-color:#FF1493;
+   background-color:Violet;
